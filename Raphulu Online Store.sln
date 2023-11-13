@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4AA9BDF6-94D4-40F2-AFE6-FDCC70F1107C}"
+	ProjectSection(SolutionItems) = preProject
+		about.html = about.html
+		index.html = index.html
+		cart.html = cart.html
+		contact.html = contact.html
+		products.html = products.html
+		Styles.css = Styles.css
+		Script.js = Script.js
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {812561B5-8DAC-403C-A384-90D908701999}
+	EndGlobalSection
+EndGlobal
